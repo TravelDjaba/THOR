@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.042,=rtl.dcp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.082,=xmlrtl.dcp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.808,D:\ProjectDTU\Proj\RamanBOXX2\Comp.dproj=D:\ProjectDTU\Proj\RamanBOXX2\compSizeGripPanel.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.741,D:\ProjectDTU\Proj\RamanBOXX2\compSizeGripPanel.dcu=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.073,=D:\ProjectDTU\Proj\RamanBOXX2\compSizeGripPanel.dcu</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.078,=vclactnband.dcp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.075,=designide.dcp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.080,=vclx.dcp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.328,=D:\ProjectDTU\Proj\RamanBOXX2\SizeGripPanel.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.076,=vcl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

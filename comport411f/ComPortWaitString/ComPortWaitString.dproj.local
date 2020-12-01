@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/01/28 20:27:51.000.599,=C:\Users\CUDA\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/01/29 15:14:58.000.978,=C:\Users\CUDA\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/02/05 09:30:38.000.107,=C:\Users\CUDA\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/02/23 09:48:38.000.239,=C:\Users\CUDA\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/02/23 09:57:39.000.881,=C:\Users\CUDA\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/02/24 11:30:23.000.112,=C:\Users\CUDA\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/02/26 12:23:23.000.387,=C:\Users\CUDA\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/03/03 16:23:05.000.138,=C:\Users\CUDA\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/29 16:13:38.000.066,=C:\Users\CUDA\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/17 11:09:01.000.136,=C:\Users\CUDA\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/07/07 01:20:02.000.380,=C:\Users\CUDA\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/07/07 09:27:37.000.220,=C:\Users\CUDA\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/17 15:59:12.000.057,=C:\Users\CUDA\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/11 10:14:41.000.617,=C:\Users\CUDA\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/11 10:21:45.000.430,C:\Users\CUDA\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\CUDA\Documents\RAD Studio\Projects\ComPortWaitString\Unit1.pas</Transaction>
+    <Transaction>2016/11/11 10:21:45.000.430,C:\Users\CUDA\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\CUDA\Documents\RAD Studio\Projects\ComPortWaitString\Unit1.dfm</Transaction>
+    <Transaction>2016/11/11 10:21:53.000.122,C:\Users\CUDA\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\CUDA\Documents\RAD Studio\Projects\ComPortWaitString\ComPortWaitString.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

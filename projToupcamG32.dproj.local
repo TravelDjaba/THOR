@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.638,=C:\Users\romsli.WIN\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/13 19:16:36.000.857,=C:\Users\romsli.WIN\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/13 19:18:06.000.870,C:\Users\romsli.WIN\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\ProjectIDTU\Proj\RamanBOXX3.1\uToupcamG32.pas</Transaction>
+    <Transaction>2017/11/13 19:18:06.000.870,C:\Users\romsli.WIN\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\ProjectIDTU\Proj\RamanBOXX3.1\uToupcamG32.dfm</Transaction>
+    <Transaction>2017/11/13 19:18:49.000.472,C:\Users\romsli.WIN\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\ProjectIDTU\Proj\RamanBOXX3.1\projToupcamG32.dproj</Transaction>
+    <Transaction>2017/11/13 19:19:14.000.951,C:\ProjectIDTU\Proj\RamanBOXX3.1\uToupcamG32.dfm=C:\ProjectIDTU\Proj\RamanBOXX3.1\MainToupcamG32.dfm</Transaction>
+    <Transaction>2017/11/13 19:19:14.000.951,C:\ProjectIDTU\Proj\RamanBOXX3.1\uToupcamG32.pas=C:\ProjectIDTU\Proj\RamanBOXX3.1\MainToupcamG32.pas</Transaction>
+    <Transaction>2017/11/13 19:37:48.000.783,=C:\ProjectIDTU\Proj\RamanBOXX3.1\Unit2.pas</Transaction>
+    <Transaction>2017/11/13 19:38:10.000.859,C:\ProjectIDTU\Proj\RamanBOXX3.1\Unit2.pas=C:\ProjectIDTU\Proj\RamanBOXX3.1\uToupcamG32.pas</Transaction>
+    <Transaction>2017/11/13 19:38:10.000.859,C:\ProjectIDTU\Proj\RamanBOXX3.1\Unit2.dfm=C:\ProjectIDTU\Proj\RamanBOXX3.1\uToupcamG32.dfm</Transaction>
+    <Transaction>2017/11/15 10:55:48.000.794,=C:\ProjectIDTU\Proj\RamanBOXX3.1\libToupcam.pas</Transaction>
+    <Transaction>2017/11/15 10:55:56.000.573,=C:\ProjectIDTU\Proj\RamanBOXX3.1\libToupcam2.pas</Transaction>
+    <Transaction>2017/11/15 10:56:18.000.949,C:\ProjectIDTU\Proj\RamanBOXX3.1\libToupcam2.pas=</Transaction>
+    <Transaction>2017/11/15 12:16:11.000.612,=C:\ProjectIDTU\Proj\RamanBOXX3.1\libToupcam2.pas</Transaction>
+    <Transaction>2017/11/15 12:16:47.000.824,C:\ProjectIDTU\Proj\RamanBOXX3.1\libToupcam2.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

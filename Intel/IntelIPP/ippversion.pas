@@ -1,0 +1,18 @@
+unit ippversion;
+
+interface
+{/*
+//              Intel(R) Integrated Performance Primitives
+//              Purpose: Describes the IPP version
+*/}
+
+const
+    IPP_VERSION_MAJOR  =8;
+    IPP_VERSION_MINOR  =2;
+    IPP_VERSION_UPDATE =3;
+
+    IPP_VERSION_STR ='8.2.3';
+
+implementation
+
+end.

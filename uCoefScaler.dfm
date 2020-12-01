@@ -1,0 +1,32 @@
+object CoefScaler: TCoefScaler
+  Left = 0
+  Top = 0
+  BorderStyle = bsNone
+  Caption = 'CoefScaler'
+  ClientHeight = 350
+  ClientWidth = 98
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object PaintBox: TPaintBox32
+    Left = 0
+    Top = 0
+    Width = 98
+    Height = 350
+    Align = alClient
+    TabOrder = 0
+    OnMouseDown = PaintBoxMouseDown
+    OnMouseMove = PaintBoxMouseMove
+    OnMouseUp = PaintBoxMouseUp
+    OnMouseWheelDown = PaintBoxMouseWheelDown
+    OnMouseWheelUp = PaintBoxMouseWheelUp
+    OnResize = PaintBoxResize
+  end
+end

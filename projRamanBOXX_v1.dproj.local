@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/02/14 12:00:56.000.779,=C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/22 21:12:51.000.665,=C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/22 21:14:19.000.519,D:\ProjectDTU\Proj\RamanBOXX2\main.pas=C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/22 21:14:19.000.519,D:\ProjectDTU\Proj\RamanBOXX2\main.dfm=C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/03/22 21:15:10.000.258,D:\ProjectDTU\Proj\RamanBOXX2\projRamanBOXX_v1.dproj=C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/03/23 07:48:04.000.700,=D:\ProjectDTU\Proj\RamanBOXX2\eml.pas</Transaction>
+    <Transaction>2017/03/24 11:45:03.000.972,=D:\ProjectDTU\Proj\RamanBOXX2\uImageGraph.pas</Transaction>
+    <Transaction>2017/03/24 11:45:03.000.889,=D:\ProjectDTU\Proj\RamanBOXX2\NumArray.pas</Transaction>
+    <Transaction>2017/03/24 11:45:03.000.905,=D:\ProjectDTU\Proj\RamanBOXX2\NumIPP.pas</Transaction>
+    <Transaction>2017/03/24 11:45:03.000.939,=D:\ProjectDTU\Proj\RamanBOXX2\uBottomGraph.pas</Transaction>
+    <Transaction>2017/03/24 11:45:04.000.000,=D:\ProjectDTU\Proj\RamanBOXX2\uLeftGraph.pas</Transaction>
+    <Transaction>2017/03/24 13:50:35.000.144,=D:\ProjectDTU\Proj\RamanBOXX2\ATMCD32D.pas</Transaction>
+    <Transaction>2017/03/24 13:50:35.000.155,=D:\ProjectDTU\Proj\RamanBOXX2\devAndor.pas</Transaction>
+    <Transaction>2017/03/24 15:02:38.000.645,=D:\ProjectDTU\Proj\RamanBOXX2\Log.pas</Transaction>
+    <Transaction>2017/03/24 15:11:43.000.416,D:\ProjectDTU\Proj\RamanBOXX2\Log.pas=</Transaction>
+    <Transaction>2017/03/24 15:11:47.000.992,=D:\ProjectDTU\Proj\RamanBOXX2\Log.pas</Transaction>
+    <Transaction>2017/03/27 10:28:10.000.057,=D:\ProjectDTU\Proj\RamanBOXX2\Unit1.pas</Transaction>
+    <Transaction>2017/03/27 10:28:23.000.004,D:\ProjectDTU\Proj\RamanBOXX2\Unit1.pas=D:\ProjectDTU\Proj\RamanBOXX2\uLaser.pas</Transaction>
+    <Transaction>2017/03/27 10:28:23.000.004,D:\ProjectDTU\Proj\RamanBOXX2\Unit1.dfm=D:\ProjectDTU\Proj\RamanBOXX2\uLaser.dfm</Transaction>
+    <Transaction>2017/03/27 10:38:19.000.616,=D:\ProjectDTU\Proj\RamanBOXX2\devLaserRBOXX.pas</Transaction>
+    <Transaction>2017/03/27 11:32:03.000.244,=D:\ProjectDTU\Proj\RamanBOXX2\Unit1.pas</Transaction>
+    <Transaction>2017/03/27 11:32:10.000.697,D:\ProjectDTU\Proj\RamanBOXX2\Unit1.pas=D:\ProjectDTU\Proj\RamanBOXX2\uController.pas</Transaction>
+    <Transaction>2017/03/27 11:32:10.000.697,D:\ProjectDTU\Proj\RamanBOXX2\Unit1.dfm=D:\ProjectDTU\Proj\RamanBOXX2\uController.dfm</Transaction>
+    <Transaction>2017/03/27 11:42:25.000.876,=D:\ProjectDTU\Proj\RamanBOXX2\ControllerSettings.pas</Transaction>
+    <Transaction>2017/03/27 11:42:25.000.887,=D:\ProjectDTU\Proj\RamanBOXX2\devController.pas</Transaction>
+    <Transaction>2017/03/27 12:34:08.000.795,=D:\ProjectDTU\Proj\RamanBOXX2\Unit1.pas</Transaction>
+    <Transaction>2017/03/27 12:34:22.000.086,D:\ProjectDTU\Proj\RamanBOXX2\Unit1.pas=D:\ProjectDTU\Proj\RamanBOXX2\uCCD.pas</Transaction>
+    <Transaction>2017/03/27 12:34:22.000.086,D:\ProjectDTU\Proj\RamanBOXX2\Unit1.dfm=D:\ProjectDTU\Proj\RamanBOXX2\uCCD.dfm</Transaction>
+    <Transaction>2017/03/27 14:13:58.000.910,D:\ProjectDTU\Proj\RamanBOXX2\uLaser.pas=</Transaction>
+    <Transaction>2017/03/27 14:14:10.000.907,D:\ProjectDTU\Proj\RamanBOXX2\uController.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

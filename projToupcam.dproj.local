@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.439,D:\ProjectDTU\Proj\RamanBOXX2\uToupcam.pas=D:\ProjectDTU\Proj\RamanBOXX2\devToupcam.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.439,D:\ProjectDTU\Proj\RamanBOXX2\uToupcam.dfm=D:\ProjectDTU\Proj\RamanBOXX2\devToupcam.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.288,D:\ProjectDTU\Proj\RamanBOXX2\MainToupcam.dfm=D:\ProjectDTU\Proj\RamanBOXX2\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.229,D:\ProjectDTU\Proj\RamanBOXX2\devToupcam.dfm=D:\ProjectDTU\Proj\RamanBOXX2\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.288,D:\ProjectDTU\Proj\RamanBOXX2\MainToupcam.pas=D:\ProjectDTU\Proj\RamanBOXX2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.772,C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\devToupcam.pas=C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.772,C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\devToupcam.dfm=C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.048,C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\mainToupcam.pas=C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\devToupcam.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.459,C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\mainToupcam.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.229,D:\ProjectDTU\Proj\RamanBOXX2\devToupcam.pas=D:\ProjectDTU\Proj\RamanBOXX2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.400,=C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.127,=C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.779,=C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.277,D:\ProjectDTU\Proj\RamanBOXX2\projToupcam.dproj=C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\projToupcam.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.893,=D:\ProjectDTU\Proj\RamanBOXX2\libToupcam.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.048,C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\mainToupcam.dfm=C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\devToupcam.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.933,=D:\ProjectDTU\Proj\RamanBOXX2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.513,=D:\ProjectDTU\Proj\RamanBOXX2\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.415,C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\projToupcam.dproj=C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.100,=C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

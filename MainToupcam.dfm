@@ -1,0 +1,31 @@
+object FormMain: TFormMain
+  Left = 0
+  Top = 0
+  Caption = 'FormMain'
+  ClientHeight = 418
+  ClientWidth = 726
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  PixelsPerInch = 96
+  TextHeight = 13
+  object PanelToupCam: TsPanel
+    Left = 0
+    Top = 0
+    Width = 726
+    Height = 418
+    Align = alClient
+    Caption = 'PanelToupCam'
+    TabOrder = 0
+    ExplicitLeft = 312
+    ExplicitTop = 176
+    ExplicitWidth = 185
+    ExplicitHeight = 41
+  end
+end

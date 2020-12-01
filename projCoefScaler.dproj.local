@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/01/31 10:54:22.000.697,=C:\Users\trave\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/31 11:00:08.000.265,C:\Users\trave\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\ProjDTU\RamanBox3.1\uBaseCoefScaler.pas</Transaction>
+    <Transaction>2019/01/31 11:00:08.000.265,C:\Users\trave\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\ProjDTU\RamanBox3.1\uBaseCoefScaler.dfm</Transaction>
+    <Transaction>2019/01/31 11:00:22.000.011,C:\Users\trave\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\ProjDTU\RamanBox3.1\projCoefScaler.dproj</Transaction>
+    <Transaction>2019/01/31 11:12:47.000.985,=D:\ProjDTU\RamanBox3.1\Unit2.pas</Transaction>
+    <Transaction>2019/01/31 11:13:39.000.078,D:\ProjDTU\RamanBox3.1\uCoefScaler.pas=D:\ProjDTU\RamanBox3.1\Unit2.pas</Transaction>
+    <Transaction>2019/01/31 11:13:39.000.078,D:\ProjDTU\RamanBox3.1\uCoefScaler.dfm=D:\ProjDTU\RamanBox3.1\Unit2.dfm</Transaction>
+    <Transaction>2019/01/31 12:05:06.000.501,=D:\ProjDTU\RamanBox3.1\uCoefScaler.pas</Transaction>
+  </Transactions>
+</BorlandProject>

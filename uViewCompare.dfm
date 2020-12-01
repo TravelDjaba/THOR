@@ -1,0 +1,42 @@
+object FormViewCompare: TFormViewCompare
+  Left = 0
+  Top = 0
+  BorderStyle = bsNone
+  Caption = 'FormViewCompare'
+  ClientHeight = 339
+  ClientWidth = 622
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object sPanel1: TsPanel
+    Left = 432
+    Top = 0
+    Width = 190
+    Height = 339
+    Align = alRight
+    Caption = 'sPanel1'
+    TabOrder = 0
+  end
+  object ImgView321: TImgView32
+    Left = 0
+    Top = 0
+    Width = 432
+    Height = 339
+    Align = alClient
+    Bitmap.ResamplerClassName = 'TNearestResampler'
+    BitmapAlign = baCustom
+    Scale = 1.000000000000000000
+    ScaleMode = smScale
+    ScrollBars.ShowHandleGrip = True
+    ScrollBars.Style = rbsDefault
+    ScrollBars.Size = 17
+    OverSize = 0
+    TabOrder = 1
+  end
+end

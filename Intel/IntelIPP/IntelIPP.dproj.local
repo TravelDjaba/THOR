@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/03/22 11:29:38.000.709,=rtl.dcp</Transaction>
+    <Transaction>2017/03/22 11:31:54.000.059,C:\Users\CUDA\Documents\Embarcadero\Studio\Projects\Package1.dproj=D:\Intel\IPP\IntelIPP.dproj</Transaction>
+    <Transaction>2017/03/22 11:32:08.000.940,=D:\Intel\IPP\Unit1.pas</Transaction>
+    <Transaction>2017/03/22 11:32:25.000.618,D:\Intel\IPP\Unit1.pas=D:\Intel\IPP\ipp.pas</Transaction>
+    <Transaction>2017/03/22 11:43:37.295,=D:\Intel\IPP\IntelIPP\ippcore.pas</Transaction>
+    <Transaction>2017/03/22 11:43:37.305,=D:\Intel\IPP\IntelIPP\ippdefs.pas</Transaction>
+    <Transaction>2017/03/22 11:43:37.365,=D:\Intel\IPP\IntelIPP\ipps.pas</Transaction>
+    <Transaction>2017/03/22 11:46:59.651,=D:\Intel\IPP\IntelIPP\Unit1.pas</Transaction>
+    <Transaction>2017/03/22 11:47:14.228,D:\Intel\IPP\IntelIPP\ippversion.pas=D:\Intel\IPP\IntelIPP\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

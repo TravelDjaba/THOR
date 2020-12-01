@@ -1,0 +1,96 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{B0C70B37-8C32-4D89-B3F0-7717BDCDB8E0}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="projRamanBOXX.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Comp.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="projToupcam.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="projToupcamG32.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="projViewer.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="projCoefScaler.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="projRamanBOXX">
+        <MSBuild Projects="projRamanBOXX.dproj"/>
+    </Target>
+    <Target Name="projRamanBOXX:Clean">
+        <MSBuild Projects="projRamanBOXX.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="projRamanBOXX:Make">
+        <MSBuild Projects="projRamanBOXX.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Comp">
+        <MSBuild Projects="Comp.dproj"/>
+    </Target>
+    <Target Name="Comp:Clean">
+        <MSBuild Projects="Comp.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Comp:Make">
+        <MSBuild Projects="Comp.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="projToupcam">
+        <MSBuild Projects="projToupcam.dproj"/>
+    </Target>
+    <Target Name="projToupcam:Clean">
+        <MSBuild Projects="projToupcam.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="projToupcam:Make">
+        <MSBuild Projects="projToupcam.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="projToupcamG32">
+        <MSBuild Projects="projToupcamG32.dproj"/>
+    </Target>
+    <Target Name="projToupcamG32:Clean">
+        <MSBuild Projects="projToupcamG32.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="projToupcamG32:Make">
+        <MSBuild Projects="projToupcamG32.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="projViewer">
+        <MSBuild Projects="projViewer.dproj"/>
+    </Target>
+    <Target Name="projViewer:Clean">
+        <MSBuild Projects="projViewer.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="projViewer:Make">
+        <MSBuild Projects="projViewer.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="projCoefScaler">
+        <MSBuild Projects="projCoefScaler.dproj"/>
+    </Target>
+    <Target Name="projCoefScaler:Clean">
+        <MSBuild Projects="projCoefScaler.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="projCoefScaler:Make">
+        <MSBuild Projects="projCoefScaler.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="projRamanBOXX;Comp;projToupcam;projToupcamG32;projViewer;projCoefScaler"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="projRamanBOXX:Clean;Comp:Clean;projToupcam:Clean;projToupcamG32:Clean;projViewer:Clean;projCoefScaler:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="projRamanBOXX:Make;Comp:Make;projToupcam:Make;projToupcamG32:Make;projViewer:Make;projCoefScaler:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
